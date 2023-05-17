@@ -1,5 +1,11 @@
-# TOXO-MIAOU
+# <span style="color:yellow">TOXO-MIAOU</span>
 
-> A school project; first steps in HTML/CSS
+> A collaborative school project; first steps in HTML/CSS
 
-![Cat shopping cart](./assets/images/shopping%20icons/caddie.svg)
+
+
+## Example of a custom made icon: 
+
+<p align="center">
+<img src="./assets/images/shopping%20icons/caddie.svg" alt="Cat Shopping Cart"/>
+</p>
